@@ -13,7 +13,7 @@ public class EmailService {
     public boolean sendSimpleMessage(String to, String subject, String text) {
         try {
             SimpleMailMessage message = new SimpleMailMessage();
-            message.setFrom("ING CAR <982158@naver.com>"); // 발신자 이메일
+            message.setFrom("ING CAR <rlagusdk48@gmail.com>"); // 발신자 이메일
             message.setTo(to);                   // 수신자 이메일
             message.setSubject(subject);         // 이메일 제목
             message.setText(text);               // 이메일 본문
