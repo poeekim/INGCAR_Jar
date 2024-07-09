@@ -18,7 +18,8 @@ function getCookie(name) {
 const csrftoken = getCookie('csrftoken');
 
 // 문의를 서버로 전송하는 함수
-function submitinquiry() {
+function submitinquiry(event) {
+    event.preventDefault();
     const inquirySubject = $('#inquiryheader_area').val();
     const inquiryBody = $('#inquiry_txt').val();
     console.log('*** 문의제목 = ' + inquirySubject);

@@ -777,6 +777,17 @@ public class MypageController {
             return "redirect:/login"; // 예: 로그인 페이지로 리디렉션
         }
 
+        // 세션에서 최근 요청 시간 확인
+        Long lastRequestTime = (Long) session.getAttribute("lastRequestTime");
+        long currentTime = System.currentTimeMillis();
+
+        if (lastRequestTime != null && (currentTime - lastRequestTime < 3000)) { // 3초 이내 중복 요청 방지
+            return "redirect:/mypage/inquiry_list";
+        }
+
+        // 세션에 현재 요청 시간 저장
+        session.setAttribute("lastRequestTime", currentTime);
+
         InquiryDTO inquiryDTO = new InquiryDTO();
         inquiryDTO.setUser_id(userId);
         inquiryDTO.setInquiry_title(inquiry_title);
