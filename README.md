@@ -1,15 +1,18 @@
 ############## Java Spring Boot 프로젝트  ##############
 
-[중고차 거래 사이트 - INGCAR]
+<h2>중고차 거래 사이트 - INGCAR]
 
-# 관리자 계정(id / pw)
-  - admin1111
-  - 
+<br>
+<h4>관리자 계정(id / pw)</h4> 
+<li>admin1111
+</li>
+<br>
+<br>
 
-# 판매자 계정(id / pw)
+##### 판매자 계정(id / pw)
   - test1234
  
-# 구매자 계정(id / pw)
+##### 구매자 계정(id / pw)
   - buyer1111
 
 
