@@ -785,7 +785,7 @@ public class MypageController {
         System.out.println("createInquiry - inquiryDTO = " + inquiryDTO);
 
         inquiryService.insertInquiry(inquiryDTO);
-        return "redirect:/inquiry_list";
+        return "redirect:/mypage/inquiry_list";
     }
 
 
