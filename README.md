@@ -16,23 +16,20 @@
 <li> buyer1111 </li>
 <br>
 
-
 <hr>
 <br>
-############## 참고문서 ##############
+############## 참고문서 및 영상 ##############
+<br><br>
+
+
+요구사항 명세서 : https://docs.google.com/spreadsheets/d/1wvyq3vYNybZFC9pJHXFbZBRw9a3ZQCwL/edit?usp=sharing&ouid=117634358375983858144&rtpof=true&sd=true <br>
+단위 테스트 목록 : https://docs.google.com/spreadsheets/d/1fOqayWT_kocT4gM1f8M-7wq_bx1LbT2q3cYWS0zkRuc/edit?gid=1240441088#gid=1240441088 <br>
+시나리오 테스트 목록 : https://docs.google.com/spreadsheets/d/1H9P90APyl2FJ5K6GXcw-7iVLOpc-1_nx/edit?gid=921563119#gid=921563119
 <br>
+시나리오 테스트 영상 : https://youtube.com/playlist?list=PLgloJZgjDl01B2NBSLe5Ydwf4Nfard6nG&si=XaJgplQzdNBOmazw
 <br>
-
-| 구분                    | 링크                                                                                                                                                                                                                     |
-|-----------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 요구사항 명세서 | [https://docs.google.com/spreadsheets/d/1wygq3vYNbyZFCo9PJHXfbZBRw9a3zQCwl/edit?usp=sharing&ouid=117634358375983858144&rtpof=true&sd=true](https://docs.google.com/spreadsheets/d/1wvyq3vYNybZFC9pJHXFbZBRw9a3ZQCwL/edit?usp=sharing&ouid=117634358375983858144&rtpof=true&sd=true) |
-| 단위 테스트 목록 | [https://docs.google.com/spreadsheets/d/1fOqayWT_kocT4gMf8M-7wq_bx1LbT2q3cWS0zkRuc/edit?gid=1240441088#gid=1240441088](https://docs.google.com/spreadsheets/d/1fOqayWT_kocT4gMf8M-7wq_bx1LbT2q3cWS0zkRuc/edit?gid=1240441088#gid=1240441088)|
-| 시나리오 테스트 목록 | [https://docs.google.com/spreadsheets/d/1H9P90APyl2FJ5K6Gxcw-7iVLOpc-1_nX/edit?gid=921563119#gid=921563119](https://docs.google.com/spreadsheets/d/1H9P90APyl2FJ5K6Gxcw-7iVLOpc-1_nX/edit?gid=921563119#gid=921563119)               |
-| UI 설계 영상      | [https://www.youtube.com/watch?v=LH1uLJ_HMhM](https://www.youtube.com/watch?v=LH1uLJ_HMhM)                                                                                                                               |
-| 시나리오 테스트 영상 | [https://www.youtube.com/watch?v=m7_E0Pbg3gI](https://www.youtube.com/watch?v=m7_E0Pbg3gI)                                                                                                                           |
-
-
-
+화면별 기능 영상 : https://youtu.be/LHlu1J_HMhM?si=hzpVxBcBqMkSiJyd
+<br>
  
 
 
