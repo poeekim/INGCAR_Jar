@@ -23,12 +23,11 @@
 
 <hr>
 <br>
-############## 화면  ##############
+############## 참고문서 ##############
 <br>
 
-![홈화면](https://github.com/poeekim/INGCAR_Jar/assets/107227456/8cc955ee-e4d1-4cca-a8d0-eb20d45295b0)
+<a href="https://docs.google.com/spreadsheets/d/1wvyq3vYNybZFC9pJHXFbZBRw9a3ZQCwL/edit?gid=56724382#gid=56724382"><h5>요구사항 명세서</h5></a> 
 
-홈화면 우측상단 'Login'을 눌러 진행합니다.
 
  
 
