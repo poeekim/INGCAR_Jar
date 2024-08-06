@@ -9,7 +9,7 @@
 <br>
 
 <h4> 판매자 계정(id / pw) </h4>
-<li> test1234 </li>
+<li> seller11 </li>
 <br>
  
 <h4> 구매자 계정(id / pw) </h4>
